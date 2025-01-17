@@ -93,6 +93,12 @@ public class MainActivity extends AppCompatActivity
                 addCityLayout.setVisibility(ListView.INVISIBLE);
                 cityTextField.setText("");
                 this.dataList.add(cityName);
+                /*
+                 * Taken from: https://stackoverflow.com/a/4540859
+                 * Authored by: Shardul, elimirks
+                 * Taken by: Spencer Schmidt
+                 * Taken on: Jan. 17, 2025
+                 */
                 cityAdapter.notifyDataSetChanged();
             }
         });

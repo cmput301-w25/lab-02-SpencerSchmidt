@@ -10,6 +10,7 @@
 
 https://www.geeksforgeeks.org/how-to-enable-disable-button-in-android/
 https://stackoverflow.com/a/9427860
+https://stackoverflow.com/a/4540859
 https://developer.android.com/reference/android/widget/EditText.html
 https://developer.android.com/reference/android/widget/Button.html
 
